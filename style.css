@@ -1,0 +1,98 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/* first-container */
+body{
+    background-color: #ECF2FF;
+}
+.first-container{
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+    background-color: #ECF2FF;
+}  
+
+h1{
+    color: #19A7CE;
+    font-size: 3rem;
+    margin-top: 100px;
+    font-family: 'Rowdies', cursive;
+}
+h2{
+    color: #070A52;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 10px;
+    font-weight: bold;
+    
+}
+h3{
+    color: #212A3E;
+    font-family: 'Quicksand', sans-serif;
+}
+.first-container > p{
+    color: #146C94;
+    font-size: 30px;
+    font-family: 'Quicksand', sans-serif;
+    margin-top: 10px;
+}
+.name{  
+    color: #000000;
+}
+.profile-image{
+    margin: 20px;
+}
+
+ /* second-container */
+
+.second-container{
+    text-align: center;
+   
+}
+
+.second-container > P{
+    color: #146C94;
+    width: 30%;
+    margin: auto;
+    line-height: 2;
+    font-size: 20px;
+}
+
+/* third-container */
+
+.third-container{
+    text-align: center;
+    margin: 150px;
+}
+.third-container > h2{
+    margin-bottom: 50px;
+}
+
+.skill-image{
+    width: 300px;
+    height: 300px;
+    padding: 50px;
+}
+.bootstrap{
+    border-radius: 50%;
+}
+.bottom-container{
+    margin-top: 20px;
+    width: 100%;
+    padding: 40px 0 20px;
+    background-color: #66BFBF;    
+    text-align: center;
+    
+}
+.footer-link{
+    text-decoration: none;
+    color: #070A52;
+}
+
+.copyright{
+    color: #EAF6F6;
+    padding: 20px;
+    font-size: 0.75rem;
+}
