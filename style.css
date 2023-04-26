@@ -9,7 +9,7 @@ body{
 }
 .first-container{
     text-align: center;
-    height: 100vh;
+    margin-bottom: 150px;
     width: 100%;
     background-color: #ECF2FF;
 }  
